@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\bin\Debug\pogoda.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\bin\Debug\pogoda.exe
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\bin\Debug\pogoda.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.Form1.resources
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.exe
+C:\Users\Admin\OneDrive\Рабочий стол\проект c#\pogoda\obj\Debug\pogoda.pdb
